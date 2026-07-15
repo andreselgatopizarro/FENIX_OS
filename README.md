@@ -1,64 +1,62 @@
-# FENIX_OS 🧠
+# 🔥 FÉNIX OS
 
-## Sistema operativo personal
-
-FENIX_OS es un segundo cerebro digital diseñado para organizar conocimiento, proyectos, aprendizaje, automatizaciones y crecimiento personal.
+> "Un segundo cerebro digital para aprender, crear y evolucionar."
 
 ---
 
-## 🎯 Objetivo
+# 📅 Hoy
 
-Crear un sistema centralizado para gestionar:
-
-- Conocimiento personal
-- Formación académica
-- Proyectos creativos
-- Entrenamiento deportivo
-- Finanzas
-- Automatizaciones
-- Recursos digitales
+- [ ] Revisar Dashboard
+- [ ] Actualizar Bitácora
+- [ ] Completar tareas prioritarias
 
 ---
 
-# Estructura del sistema
+# 🚀 Estado general
 
-## 00_SISTEMA
-Configuración general, reglas y arquitectura del sistema.
-
-## 01_DOCUMENTACION
-Manuales, procesos y documentación importante.
-
-## 02_ATLAS
-Mapa de conocimiento y conexiones entre ideas.
-
-## 03_SENA
-Formación académica, actividades y proyectos.
-
-## 04_PIXEL_Y_PAPEL
-Marca creativa, diseño gráfico y emprendimiento.
-
-## 05_ENTRENAMIENTO
-Ciclismo, objetivos deportivos y seguimiento físico.
-
-## 06_INGLES
-Aprendizaje y práctica del idioma.
-
-## 07_FINANZAS
-Control financiero, planificación y objetivos.
-
-## 08_AUTOMATIZACIONES
-Flujos automáticos, herramientas e inteligencia artificial.
-
-## 09_RESPALDOS
-Copias de seguridad y archivos históricos.
-
-## 10_RECURSOS
-Plantillas, herramientas y referencias.
+| Módulo | Estado |
+|---------|--------|
+| ✅ Sistema | Operativo |
+| ✅ Documentación | Activo |
+| ✅ Atlas | Activo |
+| ✅ SENA | En desarrollo |
+| ⏳ Pixel y Papel | Pendiente |
+| ⏳ Entrenamiento | Pendiente |
+| ⏳ Inglés | Pendiente |
+| ⏳ Finanzas | Pendiente |
+| ⏳ Automatizaciones | Pendiente |
 
 ---
 
-## Filosofía
+# 🎯 Objetivos de la semana
 
-"Un segundo cerebro digital en evolución."
+- [ ] Avanzar proyecto SENA
+- [ ] Entrenar 4 veces
+- [ ] Crear contenido para Pixel y Papel
+- [ ] Aprender Git
 
-Creado para aprender, organizar y construir.
+---
+
+# 📊 Accesos rápidos
+
+- 📂 00_SISTEMA
+- 📂 02_ATLAS
+- 📂 03_SENA
+- 📂 04_PIXEL_Y_PAPEL
+- 📂 05_ENTRENAMIENTO
+- 📂 07_FINANZAS
+
+---
+
+# 🧠 Filosofía
+
+> Cada pequeño avance cuenta.
+
+> Construir antes que consumir.
+
+> Documentar antes que olvidar.
+
+---
+
+Última actualización:
+15 julio 2026
